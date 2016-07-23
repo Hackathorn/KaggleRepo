@@ -6,7 +6,7 @@ This repository is an organization tool for Team Rand on Kaggle. Most of the cod
 These files end in *.ipynb. Contact me for actual submission scripts.
 
 Many of the <b>competition datasets</b> are <b>not included</b> because they are too large. They can be found at the 
-from the main page of the competition at <a>kaggle.com</a>.
+from the main page of the competition at <a href="https://www.kaggle.com/" target="_blank">kaggle.com</a>.
 
 <b>Datasets</b> -> various datasets used by the modules, as well as several canonical, and random datasets.
 
